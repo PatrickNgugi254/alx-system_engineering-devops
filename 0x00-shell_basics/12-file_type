@@ -1,2 +1,2 @@
 #!/bin/bash
-file /tmp/11-lists
+file -b /tmp/11-lists
