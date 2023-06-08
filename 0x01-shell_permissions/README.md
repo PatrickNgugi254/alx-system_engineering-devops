@@ -1,1 +1,1 @@
-Everybody execute
+Others do all
