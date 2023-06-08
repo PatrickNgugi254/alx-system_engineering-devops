@@ -1,1 +1,1 @@
-Others do all
+ALL execute
