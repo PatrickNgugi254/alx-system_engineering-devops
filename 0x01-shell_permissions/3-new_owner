@@ -1,1 +1,2 @@
-New Owner
+#!/bin/bash
+sudo chown
