@@ -1,2 +1,2 @@
 #!/bin/bash
-file -b /tmp/11-lists
+file /tmp/iamfile
