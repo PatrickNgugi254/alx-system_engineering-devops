@@ -1,1 +1,1 @@
-ALL execute
+same mode
