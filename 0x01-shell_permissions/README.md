@@ -1,1 +1,1 @@
-same mode
+Dir permission
