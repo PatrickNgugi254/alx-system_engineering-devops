@@ -1,1 +1,1 @@
-read 3rd line
+cwd state
